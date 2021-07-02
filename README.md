@@ -1,2 +1,3 @@
 # hello-world
-My first repo
+
+Karthikeyan here. This my second attempt at understanding github. Hope this will go well :-).
